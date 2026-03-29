@@ -128,4 +128,104 @@
       <Zip>84532</Zip>
     </Address>
   </NationalPark>
+  <NationalPark Rating="4.5">
+    <Name>Joshua Tree</Name>
+    <Phone>760-367-5500</Phone>
+    <Address NearestAirport="Palm Springs">
+      <Number>74485</Number>
+      <Street>National Park Drive</Street>
+      <City>Twentynine Palms</City>
+      <State>CA</State>
+      <Zip>92277</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Death Valley</Name>
+    <Phone>760-786-3200</Phone>
+    <Phone>760-786-3201</Phone>
+    <Address NearestAirport="Las Vegas">
+      <Number>1</Number>
+      <Street>Death Valley Road</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.4">
+    <Name>Grand Teton</Name>
+    <Phone>307-739-3300</Phone>
+    <Address NearestAirport="Jackson">
+      <Number>1</Number>
+      <Street>Teton Park Road</Street>
+      <City>Moose</City>
+      <State>WY</State>
+      <Zip>83012</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.6">
+    <Name>Bryce Canyon</Name>
+    <Phone>435-834-5322</Phone>
+    <Address NearestAirport="Cedar City">
+      <Number>1</Number>
+      <Street>Highway 63</Street>
+      <City>Bryce Canyon City</City>
+      <State>UT</State>
+      <Zip>84717</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Canyonlands</Name>
+    <Phone>435-719-2313</Phone>
+    <Address NearestAirport="Moab">
+      <Number>1</Number>
+      <Street>Highway 313</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.5">
+    <Name>Capitol Reef</Name>
+    <Phone>435-425-3791</Phone>
+    <Address NearestAirport="Salt Lake City">
+      <Number>1</Number>
+      <Street>Scenic Drive</Street>
+      <City>Torrey</City>
+      <State>UT</State>
+      <Zip>84775</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Petrified Forest</Name>
+    <Phone>928-524-6228</Phone>
+    <Address NearestAirport="Phoenix">
+      <Number>1</Number>
+      <Street>Park Road</Street>
+      <City>Holbrook</City>
+      <State>AZ</State>
+      <Zip>86425</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.7">
+    <Name>Moab Arches</Name>
+    <Phone>435-719-2299</Phone>
+    <Address NearestAirport="Moab">
+      <Number>5</Number>
+      <Street>Park Avenue</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.3">
+    <Name>Black Canyon of the Gunnison</Name>
+    <Phone>970-641-2337</Phone>
+    <Address NearestAirport="Montrose">
+      <Number>102</Number>
+      <Street>North Rim Road</Street>
+      <City>Montrose</City>
+      <State>CO</State>
+      <Zip>81401</Zip>
+    </Address>
+  </NationalPark>
 </NationalParks>
